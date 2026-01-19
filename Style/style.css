@@ -482,9 +482,9 @@ iframe{
 
 /* footer Relative Section */
 footer{
-    width: 1600px;
-    height: 412px;
-    margin: 0 auto;
+    /* width: 1600px;
+    height: 412px; */
+    /* margin: 0 auto; */
 }
 
 
@@ -552,7 +552,7 @@ footer{
 
  /* Responsive Code */
 /* @media screen and (max-width:576px) {
-    .menu-container{
+    .nav-content{
         display: none;
     }
     .hamburger{
