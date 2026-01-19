@@ -94,7 +94,7 @@ main{
     width: 75px;
     height: 38px;
     border-radius: 20px;
-    top: -250%;
+    top: -270%;
     font-size: 18px;
     font-weight: bold;
     border: none;
@@ -539,37 +539,11 @@ footer{
     text-align: center;
 }
 
-
-
-/* .footer-image{
-position: absolute;
-  bottom: -443.9%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-} */
-
-
 .footer-image{
 position: relative;
-  /* bottom: -443.9%; */
-  /* left: 50%; */
-  /* transform: translate(-50%, -50%); */
 }
 
-
-/* .footer-techwave{
-    margin-top: 40px;
-    text-align: center;
-    position: relative;
-    left: 400px;
-    bottom: 300px;
-   
-} */
-
-
 .footer-techwave{
-    /* margin-top: 40px; */
-    /* text-align: center; */
     position: absolute;
     top: 437%;
     left: 36%;
@@ -585,12 +559,6 @@ position: relative;
     
 }
 
-/* .footer-div{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-} */
-
 .footer-wave{
     background: linear-gradient( #F7E93F, #FB09B4, #9100F8);
       background-clip: text;
@@ -603,24 +571,16 @@ position: relative;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
-   
     margin-top: 32px;
     margin-bottom: 80px;
-    
-    
-    
 }
 
 .footer-icon p{
-
     font-size: 16px;
     color: rgba(255, 255, 255, 0.521);
 }
 
-.icon-foot img{
-    gap: 20px;
-}
+
 
 .footer-copy{
     font-size: 16px;
