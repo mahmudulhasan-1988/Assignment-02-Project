@@ -598,49 +598,13 @@ footer{
 
 
  /* Responsive Code */
-/* @media screen and (max-width:576px) {
+@media screen and (max-width:576px) {
     .nav-content{
         display: none;
     }
+    
     .hamburger{
     margin-right: 10px;
     display: inline;
 }
-.banner-container{
-    flex-direction: column;
 }
-.banner-right, .banner-left{
-    width: 100%;
-}
-.banner-right>img{
-    width: 100%;
-}
-
-.tooltip{
-    right: 10px;
-    top: 10%;
-}
-.tooltip2{
-       left: 2%;
- }
-
- .btn-banner1{
-    margin-bottom: 15px;
-    
-}
-.card-training{
-    grid-template-columns: repeat(2, 1fr);
-}
-
-.box-2{
-    grid-column: auto;
-}
-
-.box-4{
-    grid-column: auto;
-    }
-.box-3, .box-6{
-    display: none;
-}
-
-} */
