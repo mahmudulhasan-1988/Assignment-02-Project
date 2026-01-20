@@ -81,8 +81,8 @@ main{
 }
 
 .banner-logo{
-    position: absolute;
-  top: 45%;
+  position: absolute;
+  top: 42%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -90,11 +90,11 @@ main{
 .tooltip{
     background-color: #00FF88;
     position: absolute;
-    left: 70%;
+    left: 66%;
     width: 75px;
     height: 38px;
     border-radius: 20px;
-    top: -270%;
+    top: -296%;
     font-size: 18px;
     font-weight: bold;
     border: none;
@@ -591,13 +591,11 @@ position: relative;
 
 
  /* Responsive Code */
-/* @media screen and (max-width:576px) {
-    .nav-content{
-        display: none;
-    }
+/* @media screen and (max-width:500px) {
+    .nav-menu{
+       display: none;
+    } */
     
-    .hamburger{
-    margin-right: 10px;
-    display: inline;
-}
-} */
+    /* .hamburger{
+    /* margin-right: 10px;
+    display: inline; */
