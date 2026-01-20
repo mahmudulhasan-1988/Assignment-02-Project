@@ -71,8 +71,7 @@ main{
     margin: 0 auto;
     width: 1600px;
     height: 760px;
-    /* border: 1px solid chocolate; */
-}
+  }
 
 
 .banner-background{
@@ -264,7 +263,7 @@ hr{
     height: 1121px;
     margin: 0px auto;
     background-color: #230E3D;
-    /* color: white; */
+    
     
 }
 
@@ -304,24 +303,24 @@ hr{
 }
 
 .card-choose1:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); /* Deeper shadow */
-  transform: translateY(-5px); /* Moves the card up slightly */
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  transform: translateY(-5px);
 }
 .card-choose2:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); /* Deeper shadow */
-  transform: translateY(-5px); /* Moves the card up slightly */
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  transform: translateY(-5px);
 }
 .card-choose3:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); /* Deeper shadow */
-  transform: translateY(-5px); /* Moves the card up slightly */
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  transform: translateY(-5px);
 }
 .card-choose4:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); /* Deeper shadow */
-  transform: translateY(-5px); /* Moves the card up slightly */
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  transform: translateY(-5px);
 }
 .card-choose5:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); /* Deeper shadow */
-  transform: translateY(-5px); /* Moves the card up slightly */
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  transform: translateY(-5px);
 }
 
 
@@ -420,7 +419,6 @@ hr{
     height: 440px;
     background-color: #250D44;
     border-radius: 20px;
-    /* border: 1px solid chartreuse; */
 }
 
 iframe{
@@ -432,7 +430,7 @@ iframe{
 
 #card-img{
     color: #00FF88;
-}
+   }
 
 .card-feature>h2{
     width: 332px;
@@ -526,6 +524,20 @@ iframe{
     line-height: 24px;
     color: rgba(255, 255, 255, 0.479);
 }
+
+.meet-image{
+  box-shadow: 0 4px 8px 0 rgba(241, 235, 235, 0.582);
+  transition: transform 0.3s ease, box-shadow 0.3s ease; 
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.meet-image:hover {
+  box-shadow: 0 8px 16px 0 rgba(19, 18, 18, 0.048);
+  transform: translateY(-8px);
+}
+
+
 
 /* footer Relative Section */
 footer{
